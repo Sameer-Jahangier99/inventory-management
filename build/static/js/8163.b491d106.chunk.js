@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[8163],{38163:function(e,r,c){c.r(r);c(72791);var t=c(80184);r.default=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("p",{children:"All accepted request by DCO page"})})}}}]);
+//# sourceMappingURL=8163.b491d106.chunk.js.map

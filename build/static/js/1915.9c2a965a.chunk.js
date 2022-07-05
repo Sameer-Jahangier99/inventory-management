@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[1915],{61915:function(e,r,n){n.r(r);n(72791);var c=n(59434),o=n(80184);r.default=function(){var e=(0,c.v9)((function(e){return e.userLogin})).userInfo;return console.log("userInfo====>",e),(0,o.jsx)(o.Fragment,{children:(0,o.jsx)("div",{children:(0,o.jsxs)("h3",{children:["Hi ",(0,o.jsx)("span",{style:{color:"#3399FF"},children:e&&e.name})," Welcome to Dashboard"]})})})}}}]);
+//# sourceMappingURL=1915.9c2a965a.chunk.js.map

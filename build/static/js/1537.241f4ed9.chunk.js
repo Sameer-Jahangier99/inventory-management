@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[1537],{91537:function(e,r,c){c.r(r);c(72791);var t=c(80184);r.default=function(){return(0,t.jsx)("div",{children:(0,t.jsx)("p",{children:"All rejected complaints by DCO page"})})}}}]);
+//# sourceMappingURL=1537.241f4ed9.chunk.js.map

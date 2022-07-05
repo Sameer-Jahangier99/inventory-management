@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[1164],{31164:function(e,r,t){t.r(r);t(72791);var c=t(80184);r.default=function(){return(0,c.jsx)("div",{children:(0,c.jsx)("p",{children:"Add feedback to installed software"})})}}}]);
+//# sourceMappingURL=1164.509f878a.chunk.js.map

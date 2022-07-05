@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/4228.f04b382d.chunk.js","mappings":"yMASA,UAPoB,WAEhB,OACI","sources":["views/pages/Inventory/ViewEquipment.js"],"sourcesContent":["import React from 'react'\n\nconst viewProduct = () => {\n\n    return (\n        <div>viewProduct</div>\n    )\n}\n\nexport default viewProduct"],"names":[],"sourceRoot":""}

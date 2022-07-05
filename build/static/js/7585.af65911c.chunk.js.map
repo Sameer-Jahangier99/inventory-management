@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7585.af65911c.chunk.js","mappings":"0MAUA,UARe,WACb,OACE,0BACE","sources":["views/pages/reports/Yearly.js"],"sourcesContent":["import React from 'react'\n\nconst Yearly = () => {\n  return (\n    <div>\n      <p>Weekly Reports Page</p>\n    </div>\n  )\n}\n\nexport default Yearly\n"],"names":[],"sourceRoot":""}

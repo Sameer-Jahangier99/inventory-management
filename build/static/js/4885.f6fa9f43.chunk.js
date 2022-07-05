@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[4885],{4885:function(e,t,c){c.r(t);c(72791);var r=c(80184);t.default=function(){return(0,r.jsx)("div",{children:(0,r.jsx)("p",{children:"All Rejected Complaints by committe page"})})}}}]);
+//# sourceMappingURL=4885.f6fa9f43.chunk.js.map
